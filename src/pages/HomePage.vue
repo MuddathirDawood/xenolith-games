@@ -19,6 +19,7 @@ export default defineComponent({
 <style scoped>
   main{
     background: url('https://i.postimg.cc/nhKmhwvh/wp5633980-neon-aesthetic-4k-wallpapers.jpg')no-repeat center center/cover;
+    overflow: hidden;
   }
   img{
     padding-bottom: 75px;

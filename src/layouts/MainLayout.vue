@@ -1,6 +1,6 @@
 <template>
   <q-layout view="lHh Lpr lFf">
-    <q-header elevated>
+    <q-header>
       <q-toolbar class="primary-bg-color">
         <q-toolbar-title class="text-white text-center">
           Xenolith Games
@@ -24,6 +24,12 @@
               </q-fab>
             </q-page-sticky>
     </q-page-container>
+
+    <q-footer elevated>
+        <q-toolbar class="primary-bg-color">
+          <q-toolbar-title class="text-subtitle1 text-center">Copyright &copy; by Muddathir Dawood</q-toolbar-title>
+        </q-toolbar>
+      </q-footer>
   </q-layout>
 </template>
 
@@ -57,3 +63,7 @@ export default defineComponent({
   }
 })
 </script>
+
+<style>
+
+</style>

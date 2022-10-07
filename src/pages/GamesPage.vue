@@ -91,27 +91,27 @@
               </q-card-section>
             </q-card>
             <q-card class="game q-ma-lg" flat bordered square>
-              <q-img src="https://i.postimg.cc/mg467dJX/Dark-Souls-1.webp"/>
+              <q-img src="https://i.postimg.cc/pr0hDnFd/Ryse.jpg"/>
               <q-card-section>
-                <div class="text-overline text-center overline">Dark Souls 1 Remastered</div>
+                <div class="text-overline text-center overline">Ryse Son of Rome</div>
               </q-card-section>
             </q-card>
             <q-card class="game q-ma-lg" flat bordered square>
-              <q-img src="https://i.postimg.cc/6pdqmQH6/Cod-4jpeg.jpg"/>
+              <q-img src="https://i.postimg.cc/cHt0Dg2H/Q-Break.jpg"/>
               <q-card-section>
-                <div class="text-overline text-center overline">CoD 4 Modern Warfare</div>
+                <div class="text-overline text-center overline">Quantam Break</div>
               </q-card-section>
             </q-card>
             <q-card class="game q-ma-lg" flat bordered square>
-              <q-img src="https://i.postimg.cc/nzLvxm5G/Fable-iii.webp"/>
+              <q-img src="https://i.postimg.cc/bJh354Ft/Sunset-Overdrive.jpg"/>
               <q-card-section>
-                <div class="text-overline text-center overline">Fable III</div>
+                <div class="text-overline text-center overline">Sunset Overdrive</div>
               </q-card-section>
             </q-card>
             <q-card class="game q-ma-lg" flat bordered square>
-              <q-img src="https://i.postimg.cc/2ys99YGv/Dying-Light-cover.webp"/>
+              <q-img src="https://i.postimg.cc/W3qqM47m/Halo.jpg"/>
               <q-card-section>
-                <div class="text-overline text-center overline">Dying light</div>
+                <div class="text-overline text-center overline">Halo Infinite</div>
               </q-card-section>
             </q-card>
           </q-tab-panel>

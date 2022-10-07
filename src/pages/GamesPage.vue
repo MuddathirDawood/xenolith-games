@@ -52,42 +52,42 @@
 
           <q-tab-panel name="ps">
             <q-card class="game q-ma-lg" flat bordered square>
-              <q-img src="https://i.postimg.cc/PJTcM2FQ/Crysis3.jpg"/>
+              <q-img src="https://i.postimg.cc/WbqL8zbh/Horizon-Zero-Dawn.jpg"/>
               <q-card-section>
-                <div class="text-overline text-center overline">Crysis 3 Remastered</div>
+                <div class="text-overline text-center overline">Horizon Zero Dawn</div>
               </q-card-section>
             </q-card>
             <q-card class="game q-ma-lg" flat bordered square>
-              <q-img src="https://i.postimg.cc/mg467dJX/Dark-Souls-1.webp"/>
+              <q-img src="https://i.postimg.cc/RVW6T7HK/The-Last-of-Us.jpg"/>
               <q-card-section>
-                <div class="text-overline text-center overline">Dark Souls 1 Remastered</div>
+                <div class="text-overline text-center overline">The Last of Us Part II</div>
               </q-card-section>
             </q-card>
             <q-card class="game q-ma-lg" flat bordered square>
-              <q-img src="https://i.postimg.cc/6pdqmQH6/Cod-4jpeg.jpg"/>
+              <q-img src="https://i.postimg.cc/BZHQZmHh/Uncharted-4.webp"/>
               <q-card-section>
-                <div class="text-overline text-center overline">CoD 4 Modern Warfare</div>
+                <div class="text-overline text-center overline">Uncharted 4</div>
               </q-card-section>
             </q-card>
             <q-card class="game q-ma-lg" flat bordered square>
-              <q-img src="https://i.postimg.cc/nzLvxm5G/Fable-iii.webp"/>
+              <q-img src="https://i.postimg.cc/9MHKLY0M/infamous.webp"/>
               <q-card-section>
-                <div class="text-overline text-center overline">Fable III</div>
+                <div class="text-overline text-center overline">inFamous Second Son</div>
               </q-card-section>
             </q-card>
             <q-card class="game q-ma-lg" flat bordered square>
-              <q-img src="https://i.postimg.cc/2ys99YGv/Dying-Light-cover.webp"/>
+              <q-img src="https://i.postimg.cc/bvy2kKHN/Nioh-The-Complete-Edition.jpg"/>
               <q-card-section>
-                <div class="text-overline text-center overline">Dying light</div>
+                <div class="text-overline text-center overline">Nioh</div>
               </q-card-section>
             </q-card>
           </q-tab-panel>
 
           <q-tab-panel name="xbox">
             <q-card class="game q-ma-lg" flat bordered square>
-              <q-img src="https://i.postimg.cc/PJTcM2FQ/Crysis3.jpg"/>
+              <q-img src="https://i.postimg.cc/6pnsJpST/dead-rising-3.webp"/>
               <q-card-section>
-                <div class="text-overline text-center overline">Crysis 3 Remastered</div>
+                <div class="text-overline text-center overline">Dead Rising 3</div>
               </q-card-section>
             </q-card>
             <q-card class="game q-ma-lg" flat bordered square>
